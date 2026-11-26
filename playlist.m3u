@@ -149,3 +149,43 @@ https://drk6xq0vhn.gpcdn.net/hls/saudi_quran.m3u8
 https://drk6xq0vhn.gpcdn.net/hls/saudi_sunnah.m3u8
 #EXTINF:-1 tvg-id="al-jazeera-internation" tvg-name="Al Jazeera" tvg-logo="https://6rgfinyqha.gpcdn.net/uploads/images/2026/10/26/images_ffa66f6c95774c36936ff28678431ef7_goplay_aljazeera.png" group-title="Featured",Al Jazeera
 https://drk6xq0vhn.gpcdn.net/hls/al_jazeera_int.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="DURONTO TV HD" tvg-logo="https://i.postimg.cc/02MtdHDF/Duronto-TV.jpg" group-title="Kids",DURONTO TV HD
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/55.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="POGO" tvg-logo="https://i.postimg.cc/502gHPf7/POGO1664977122.jpg" group-title="Kids",POGO
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/56.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/65v0G4N6/CN.jpg" group-title="Kids",CARTOON NETWORK
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/57.m3u8
+#EXTINF:-1 tvg-id="64" tvg-name="NICK BANGLA" tvg-logo="https://i.postimg.cc/9XvQFHny/Nick-Bangla.jpg" group-title="Kids",NICK BANGLA
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/64.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="DISCOVERY BANGLA" tvg-logo="https://i.postimg.cc/bJbPMs9m/Discovery.png" group-title="Other",DISCOVERY BANGLA
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/63.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="T SPORTS" tvg-logo="https://i.postimg.cc/PfWvcMyz/T-Sports2.png" group-title="Sports",T SPORTS
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/10.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="T SPORTS HD" tvg-logo="https://i.postimg.cc/j24W7sCV/T-Sports.png" group-title="Sports",T SPORTS HD
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/11.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="SONY SPORTS TEN 1 HD" tvg-logo="https://i.postimg.cc/J48Z4FtV/Sony-Ten-1-HD.jpg" group-title="Sports",SONY SPORTS TEN 1 HD
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/12.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="BANGLA VISION HD" tvg-logo="https://i.postimg.cc/q7wyKv3N/Banglavision.png" group-title="Bangla",BANGLA VISION HD
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/44.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="MAASRANGA TV HD" tvg-logo="https://i.postimg.cc/596kS6mM/MAASRANGA-TV-HD.jpg" group-title="Bangla",MAASRANGA TV HD
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/45.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="GAZI TV HD" tvg-logo="https://i.postimg.cc/mhWtqv9f/Gazi-TV.jpg" group-title="Bangla",GAZI TV HD
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/46.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="DEEPTO TV HD" tvg-logo="https://i.postimg.cc/vBj17gHv/Deepto-TV.jpg" group-title="Bangla",DEEPTO TV HD
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/47.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="NAGORIK TV HD" tvg-logo="https://i.postimg.cc/rmz0tCTv/Nagorik-TV.jpg" group-title="Bangla",NAGORIK TV HD
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/48.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="BTV NATIONAL HD" tvg-logo="https://i.postimg.cc/Sx7M0xDh/BTV.png" group-title="Bangla",BTV NATIONAL HD
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/49.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="STAR JALSHA" tvg-logo="https://i.postimg.cc/XYZzxt83/STAR-JALSHA.png" group-title="Kolkata Bangla",STAR JALSHA
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/58.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="ZEE BANGLA" tvg-logo="https://i.postimg.cc/FFZ8Kyz4/ZEE-BANGLA.jpg" group-title="Kolkata Bangla",ZEE BANGLA
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/59.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="COLORS BANGLA" tvg-logo="https://i.postimg.cc/cH7jwYcT/COLORS-BANGLA.webp" group-title="Kolkata Bangla",COLORS BANGLA
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/60.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="ENTER 10 BANGLA" tvg-logo="https://i.postimg.cc/CLc3cGpJ/ENTER-10-BANGLA.jpg" group-title="Kolkata Bangla",ENTER 10 BANGLA
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/61.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="SONY AATH" tvg-logo="https://i.postimg.cc/xCKr5B9J/SONY-AATH.png" group-title="Kolkata Bangla",SONY AATH
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/62.m3u8
+#EXTINF:-1 tvg-id="65" tvg-name="JALSHA MOVIES HD" tvg-logo="https://i.postimg.cc/Y2ytDB7c/Jalsha-Movies.jpg" group-title="Kolkata Bangla",JALSHA MOVIES HD
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/65.m3u8
